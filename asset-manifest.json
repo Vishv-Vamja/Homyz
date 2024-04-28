@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Homyz/static/css/main.1a91983d.css",
+    "main.js": "/Homyz/static/js/main.1f554b34.js",
+    "static/js/453.9eaa1c75.chunk.js": "/Homyz/static/js/453.9eaa1c75.chunk.js",
+    "static/media/hero.png": "/Homyz/static/media/hero.eade2b5f1b7c166cb16c.png",
+    "static/media/img5.png": "/Homyz/static/media/img5.b619962bdea2621cbd6b.png",
+    "static/media/img6.jpg": "/Homyz/static/media/img6.5e0194664deddac4b915.jpg",
+    "static/media/img3.png": "/Homyz/static/media/img3.236399b3ed670db792cf.png",
+    "static/media/img2.png": "/Homyz/static/media/img2.cc77e18f59771c7ad75b.png",
+    "static/media/img1.png": "/Homyz/static/media/img1.e1c1031f09a0b81f98d9.png",
+    "static/media/img4.png": "/Homyz/static/media/img4.11971af17bb2cc252199.png",
+    "index.html": "/Homyz/index.html",
+    "main.1a91983d.css.map": "/Homyz/static/css/main.1a91983d.css.map",
+    "main.1f554b34.js.map": "/Homyz/static/js/main.1f554b34.js.map",
+    "453.9eaa1c75.chunk.js.map": "/Homyz/static/js/453.9eaa1c75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a91983d.css",
+    "static/js/main.1f554b34.js"
+  ]
+}
