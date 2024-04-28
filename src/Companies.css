@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins",sans-serif;
+    scroll-behavior: smooth;
+}
+.c-container{
+    justify-content: space-between;
+    gap: 1rem;
+}
+.c-container>img{
+    width: 9rem;
+}
